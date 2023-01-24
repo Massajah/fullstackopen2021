@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1hc2EiLCJpZCI6IjYzYzFjMDUxZmE2NzlhMTI2YjI5OWViZSIsImlhdCI6MTY3MzczNDUxMSwiZXhwIjoxNjczNzM4MTExfQ.G64ihwvQAORNnCczVTiJhGKEzBczhdJHBUaxH6v
+
+{
+    "author": "Masa",
+    "title": "NBA2",
+    "url": "masasblog.com/NBA2",
+    "likes": 24
+}
