@@ -1,0 +1,70 @@
+body {
+  background-color:blue;
+  padding: 10pt;
+}
+
+.message {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.app {
+  background-color: #BAE6FD;
+  padding: 5pt;
+  text-align: center;
+  font-size: 15pt;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.form {
+  margin-bottom: 5pt;
+}
+
+.button {
+  width: 100pt;
+  margin-top: 10pt;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+.button2 {
+  width: 120pt;
+  margin-top: 15pt;
+  font-size: 18px;
+}
+
+.blog {
+  border-bottom: solid 1pt black;
+  padding-bottom: 10pt;
+  line-height: 5pt;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.search {
+  margin-bottom: 5pt;
+  margin-top: 10pt;
+  font-size: 12pt;
+  padding: 3pt;
+}
+
+.createBlog {
+  margin-bottom: 30px;
+}
+

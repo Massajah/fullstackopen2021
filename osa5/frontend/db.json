@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": "Antti Laaksonen",
+      "title": "NHL",
+      "url": "www.blogs.com/nhl",
+      "likes": 84
+    },
+    {
+      "id": 2,
+      "author": "Jukka Jokinen",
+      "title": "Retro gaming",
+      "url": "www.blogs-heaven.com/retrogaming",
+      "likes": 22
+    },
+    {
+      "id": 3,
+      "author": "Anna Niemi",
+      "title": "Style",
+      "url": "www.blogs.com/style",
+      "likes": 177
+    },
+    {
+      "author": "Matti Tepponen",
+      "title": "Autot",
+      "url": "www.cars.com/blogs/cars",
+      "likes": "431",
+      "id": 4
+    },
+    {
+      "author": "Simo Silmu",
+      "title": "Kitarat",
+      "url": "www.simosilmu.com/blog/kitarat",
+      "likes": "19",
+      "id": 5
+    }
+  ]
+}
