@@ -1,0 +1,9 @@
+title 0.6
+
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa // lähetetään data json merkkijonona
+palvelin-->selain: HTML-koodi
+
+note over selain:
+selain suorittaa tapahtumankäsittelijän
+joka renderöi muistiinpanot näytölle
+end note
