@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1hc2EiLCJpZCI6IjYzYzFjMDUxZmE2NzlhMTI2YjI5OWViZSIsImlhdCI6MTY3NjQ1ODA1MCwiZXhwIjoxNjc2NDYxNjUwfQ.QX0GOR5rMMkOB8oL-7-albjp-iQmyS5dsL9JUmGkFz4
+
+{
+    "author": "Masa",
+    "title": "Golf",
+    "url": "masasblog.com/golf",
+    "likes": 111
+}
